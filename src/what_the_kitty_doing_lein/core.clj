@@ -148,7 +148,7 @@
         (let [cat-future (future (cat-image))]
           (Thread/sleep 13548)
 
-          (println "\033[32;1m[Thread 2]\033[1m- Mudando imagem da direita!")
+          (println "\033[32;1m[Thread 2]\033[1m- Mudando imagem da esquerda!")
           (swap! l-img-atom (fn [i] (doto i
                                       (.setImage @cat-future))))
           (update-left-image))
