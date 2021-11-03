@@ -17,7 +17,7 @@ Você pode rodar com:
 
 ``lein run``, se tiver o leiningen instalado
 
-ou baixando a [release](https://github.com/matheuszinn/SO-what-the-kitten-doing-/releases):
+ou baixando a [release](https://github.com/matheuszinn/SO-what-the-kitten-doing-/releases) (Feito usando openjdk 11.0.11 2021-04-20, não sei se funciona em outras versões):
 
 ```
 java -jar release_name
