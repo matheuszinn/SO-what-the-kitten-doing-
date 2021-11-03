@@ -17,10 +17,10 @@ Você pode rodar com:
 
 ``lein run``, se tiver o leiningen instalado
 
-ou 
+ou baixando a [release](https://github.com/matheuszinn/SO-what-the-kitten-doing-/releases):
 
 ```
-
+java -jar release_name
 ```
 
 ## License
