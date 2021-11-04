@@ -9,7 +9,7 @@ A ideia é spawnar duas Threads para buscar imagens novas e mostrar essas imagen
 
 Enquanto isso, a Thread principal mostra no console informações sobre raças de gatinhos!!!
 
-É mais Java que clojure se for analisar, mais o importante é que funciona.
+É mais Java que clojure se for analisar, mas o importante é que funciona.
 
 ## Modo de uso
 
